@@ -17,5 +17,5 @@ Changes to this theme are primarily cosmetic.
 * Love judgement now has early and late markers
 
 ![one](http://i.imgur.com/c1GzvKX.jpg)
-![two](http://i.imgur.com/c1GzvKX.jpg)
+![two](http://i.imgur.com/fZJckXm.jpg)
 ![three](http://i.imgur.com/WlXqJrB.jpg)
