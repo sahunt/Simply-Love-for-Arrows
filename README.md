@@ -16,6 +16,6 @@ Changes to this theme are primarily cosmetic.
 * Added negative mini. Useful for HD displays where arrows can look tiny
 * Love judgement now has early and late markers
 
-![one](ttp://i.imgur.com/c1GzvKX.jpg)
-![two](ttp://i.imgur.com/c1GzvKX.jpg)
+![one](http://i.imgur.com/c1GzvKX.jpg)
+![two](http://i.imgur.com/c1GzvKX.jpg)
 ![three](http://i.imgur.com/WlXqJrB.jpg)
