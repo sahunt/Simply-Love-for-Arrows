@@ -1,4 +1,4 @@
-Simply Love (StepMania 5)
+Simply Love for Arrows
 ======================
 
 This is a modified version of Dan Guzek's Simply Love port for SM5. View the original project here: https://github.com/dguzek/Simply-Love-SM5
